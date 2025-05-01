@@ -3,7 +3,7 @@
 ## 📸 Screenshots
 
 ### Homepage
-![Main Page](images/mainpage.png)
+![Main Page](images/Home Page.png)
 
 ### Course Page
 ![Course Page](images/course.png)
