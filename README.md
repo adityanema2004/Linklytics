@@ -2,14 +2,17 @@
 
 ## 📸 Screenshots
 
+### DashBoard Page
+![DashBoard Page](images/DashBoard.png)
+
 ### Homepage
-![Main Page](images/Home Page.png)
+![Main Page](images/homepage.png)
 
-### Course Page
-![Course Page](images/course.png)
+### Login Page
+![Login Page](images/loginpage.png)
 
-### Features
-![Instructor Dashboard](images/features.png)
+### Register Page
+![Register Page](images/registerpage.png)
 
 
 # 📚 Linklytics - Shorten Your URL's with Ease
