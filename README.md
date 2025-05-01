@@ -12,7 +12,7 @@
 ![Instructor Dashboard](images/features.png)
 
 
-# 📚 StudyNotion - An EdTech Platform
+# 📚 Linklytics - Shorten Your URL's with Ease
 
 Linklytics is a link management platform that allows users to shorten, customize, and track URLs. Originally known for its core feature of shortening long web addresses to make them easier to share, especially on social media and messaging platforms, Linklytics has evolved into a comprehensive tool for digital marketers and businesses.
 
