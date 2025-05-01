@@ -2,9 +2,6 @@
 
 ## 📸 Screenshots
 
-### DashBoard Page
-![DashBoard Page](images/DashBoard.png)
-
 ### Homepage
 ![Main Page](images/homepage.png)
 
@@ -14,6 +11,8 @@
 ### Register Page
 ![Register Page](images/registerpage.png)
 
+### DashBoard Page
+![DashBoard Page](images/DashBoard.png)
 
 # 📚 Linklytics - Shorten Your URL's with Ease
 
